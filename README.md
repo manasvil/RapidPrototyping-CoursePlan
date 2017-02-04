@@ -5,10 +5,11 @@
 This repo is course plan documenting a maker-oriented Introduction to Programming course at Georgia Tech CS-6452. This class was offered to graduate students from the Masters and PhD program but it can be taught at an udergraduate level too.
 This class was offered over the course of Fall semester and taught two major modules: Introduction to Physical Computing and Introduction to Mobile Phone Programming.
 This repo focuses purely on the firs module i.e. Intro to Physical Computing.
-It contains guidelines that should not be followed exactly. For eg. there may be sessions where we use a 3-D printer to prototype a case for a prototype but that can substituted by a manual exercise such as forming a cardboard box case.
+It contains guidelines that should not be followed exactly. Some of the exercises require use of resources on the Georgia Tech campus. But educators are encouraged to find alternative resources in their community ortweak exercises such that they use readily available resources.
+For eg. there may be sessions where we use a 3-D printer to prototype a case for a prototype but that can substituted by a manual exercise such as forming a cardboard box case.
 Each module should be tailored to the individual class.
 It is written by and for education innovators.
-
+Insert credits to gregory and team here.
 * [Previous Sprints](Previous-Sprints)
 * [Pre-Sprint Preparation](0-Pre-Sprint)
 * [Understand Phase](1-Understand)
