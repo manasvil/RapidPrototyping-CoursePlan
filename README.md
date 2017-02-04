@@ -1,11 +1,11 @@
 ![Design Sprint Phases](/images/phases.png?raw=true "Design Sprint Phases")
 
-# Product Design Sprint
+# [Project title]
 
-This repo is a collection of documents intended to help guide a design sprint.
+This repo is a collection of documents intended to help [do something].
 It contains guidelines that should not be followed exactly.
-Each sprint should be tailored to the individual project.
-It is written by and for the thoughtbot team.
+Each module should be tailored to the individual class.
+It is written by and for education innovators.
 
 * [Previous Sprints](Previous-Sprints)
 * [Pre-Sprint Preparation](0-Pre-Sprint)
