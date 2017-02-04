@@ -2,7 +2,7 @@
 
 # [Project title]
 
-This repo is a collection of documents intended to help [do something].
+This repo is a collection of course plan documenting a maker-oriented Introduction to Programming course at Georgia Tech CS-6452. This class was offered to graduate students from the Masters and PhD program but it can be taught at an udergraduate level too.
 It contains guidelines that should not be followed exactly.
 Each module should be tailored to the individual class.
 It is written by and for education innovators.
