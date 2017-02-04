@@ -15,7 +15,7 @@ It is written by and for education innovators.
 * [Prototype Phase](4-Prototype)
 * [Test Phase](5-Test)
 
-## What is a product design sprint?
+## What is a course plan?
 
 A product design sprint is a technique to
 quickly solve product design problems
@@ -24,7 +24,7 @@ It has been pioneered by the
 [Google Ventures Design
 Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
 
-#### Why do a design sprint?
+#### Why do a course plan this way?
 
 A design sprint orients the team
 and aims our efforts toward a mutual goal.
@@ -36,7 +36,7 @@ Sprints are useful when kicking off a new
 business, product, feature, or workflow.
 Sprints can also be used to solve problems with an existing product.
 
-#### What should you expect to have at the end of a design sprint?
+#### What should you expect to have at the end of reading/using this course plan?
 
 At the end of the sprint,
 the team will understand the problem and
