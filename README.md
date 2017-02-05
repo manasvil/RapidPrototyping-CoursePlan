@@ -30,10 +30,9 @@ Zane Cochran
 [Google Ventures Design
 Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
 
-#### Why do a course plan this way?
+#### What is the backstory behing developing this course plan?
 
-This Rapid Prototyping course plan was made by Manasvi because (edit)
-Fall of 2015 presented an interesting problem and requirements gathering opportunity where the class would have a new faculty instructor the following year in Fall of 2016 and word was in the grapevine that members of the faculty were apprehensive about taking on the new curriculum. I found that they had little familiarity with the content and little prior experience with hardware prototyping. Manasvi spent time taking the class as well as later acting as a teaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
+This Rapid Prototyping course plan was made by Manasvi because an interesting policy decision which called for this class to be taught in rotation by facutly members. Thus, in Fall of 2016 the class would be handed-off to a new faculty instructor. Word was in the grapevine that members of the faculty were apprehensive about taking on the new curriculum. Manasvi found that they had little familiarity with the content and little prior experience with hardware prototyping. Manasvi spent time taking the class as well as later acting as a teaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
 
 #### What should you expect to have at the end of reading/using this course plan?
 This class changed my perspective in many ways by making hardware programmable and accessible. I would not say that it made me an expert in hardware prototyping but it helped me overcome a huge mental-block that hardware was not for me to tinker with. 
