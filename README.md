@@ -44,10 +44,8 @@ whether we have a viable solution to begin building
 or whether we need to run another sprint to keep searching for a solution.
 
 ## Design Sprint Overview
-
-A design sprint is comprised of five phases;
-Understand, Diverge, Converge, Prototype and Test.
-Each phase typically lasts one day.
+CS-6452 Prototyping Interactive Systems(HCC-2)
+https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit?usp=sharing
 
 #### [Pre-Sprint](0-Pre-Sprint)
 
