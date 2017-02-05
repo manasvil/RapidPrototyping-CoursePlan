@@ -32,20 +32,12 @@ Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html)
 
 #### Why do a course plan this way?
 
-This Rapid Prototyping course plan was made by Manasvi because [RQ/problem statement from paper]. Manasvi spent time taking the class as well as later acting as a Tteaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
-
-A design sprint orients the team
-and aims our efforts toward a mutual goal.
-Design thinking and product design sprints
-keep us on target
-and invest our time and money wisely.
-
-Sprints are useful when kicking off a new
-business, product, feature, or workflow.
-Sprints can also be used to solve problems with an existing product.
+This Rapid Prototyping course plan was made by Manasvi because (edit)
+Fall of 2015 presented an interesting problem and requirements gathering opportunity where the class would have a new faculty instructor the following year in Fall of 2016 and word was in the grapevine that members of the faculty were apprehensive about taking on the new curriculum. I found that they had little familiarity with the content and little prior experience with hardware prototyping. Manasvi spent time taking the class as well as later acting as a teaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
 
 #### What should you expect to have at the end of reading/using this course plan?
-
+This class changed my perspective in many ways by making hardware programmable and accessible. I would not say that it made me an expert in hardware prototyping but it helped me overcome a huge mental-block that hardware was not for me to tinker with. 
+I was able to transfer many of the skills I learned in this class to other classes in MS-HCI where I was able to push my skills and learn more about tinkering with electronics.
 At the end of the sprint,
 the team will understand the problem and
 will have validated
