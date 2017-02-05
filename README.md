@@ -19,8 +19,8 @@ Insert credits to gregory and team here.
 * [Test Phase](5-Test)
 
 ## What is a course plan?
-
-This course plan captures the activities followed by the Georiga Tech instructional team in class and outside of class to get students to tinker with Arduinos and such.
+A course plan gives you a schedule of what content to teach in class and methods that hve been successfully used to impart it.
+This course plan captures the activities followed by the Georiga Tech Instructional team in class and outside of class to get students to tinker with Arduinos and such.
 
 The course has been pioneered by the following team at Georgia Tech:
 Grgory Abowd
