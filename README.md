@@ -20,12 +20,17 @@ Insert credits to gregory and team here.
 
 ## What is a course plan?
 
-A product design sprint is a technique to
-quickly solve product design problems
-and test the viability of a solution.
-It has been pioneered by the
+This course plan captures the activities followed by the Georiga Tech instructional team in class and outside of class to get students to tinker with Arduinos and such.
+
+The course has been pioneered by the following team at Georgia Tech:
+Grgory Abowd
+Aman Parnami
+Elizabeth DiSalvo
+Zane Cochran
 [Google Ventures Design
 Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
+
+Manasvi spent time taking the class as well as later acting as a Tteaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
 
 #### Why do a course plan this way?
 
