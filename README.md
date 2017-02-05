@@ -30,9 +30,9 @@ Zane Cochran
 [Google Ventures Design
 Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
 
-Manasvi spent time taking the class as well as later acting as a Tteaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
-
 #### Why do a course plan this way?
+
+This Rapid Prototyping course plan was made by Manasvi because [RQ/problem statement from paper]. Manasvi spent time taking the class as well as later acting as a Tteaching assistant for the class and spent time documenting and creating content for this course plan as repository for the community.
 
 A design sprint orients the team
 and aims our efforts toward a mutual goal.
