@@ -15,14 +15,6 @@ It contains guidelines that should not be followed exactly. Some of the exercise
 For example, there may be sessions where we use a 3-D printer to prototype a case for a prototype but that can substituted by a manual exercise such as forming a cardboard box case.
 Each module should be tailored to the individual class.
 It is written by and for education innovators.
-Insert credits to gregory and team here.
-* [Previous Sprints](Previous-Sprints)
-* [Pre-Sprint Preparation](0-Pre-Sprint)
-* [Understand Phase](1-Understand)
-* [Diverge Phase](2-Diverge)
-* [Converge Phase](3-Converge)
-* [Prototype Phase](4-Prototype)
-* [Test Phase](5-Test)
 
 ## What is a course plan?
 A course plan gives you a schedule of what content to teach in class and methods that hve been successfully used to impart it.
