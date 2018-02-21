@@ -1,5 +1,3 @@
-![Design Sprint Phases](/images/phases.png?raw=true "Design Sprint Phases")
-
 # [Rapid Prototyping Course Plan]
 
 This repo is a course plan documenting a maker-oriented Introduction to Programming course at Georgia Tech CS-6452. It's now being redeveloped into a general-use repository in partnership with [Mozilla](https://mozilla.github.io/leadership-training/round-5/projects/#maker-learning-curriculum-for-rapid-prototyping), but in the meantime, you can get started with this:
