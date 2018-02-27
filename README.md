@@ -33,12 +33,7 @@ This Rapid Prototyping course plan was made by Manasvi because an interesting po
 #### What should you expect to have at the end of reading/using this course plan?
 This class changed my perspective in many ways by making hardware programmable and accessible. I would not say that it made me an expert in hardware prototyping but it helped me overcome a huge mental-block that hardware was not for me to tinker with. 
 I was able to transfer many of the skills I learned in this class to other classes in MS-HCI where I was able to push my skills and learn more about tinkering with electronics.
-At the end of the sprint,
-the team will understand the problem and
-will have validated
-whether we have a viable solution to begin building
-or whether we need to run another sprint to keep searching for a solution.
 
-## Design Sprint Overview
+## Resource
 CS-6452 Prototyping Interactive Systems(HCC-2)
 https://docs.google.com/document/d/1Wv5CLz1mf0-Lxyammcyn7AI1M7WV4porr7C6DplU5LA/edit?usp=sharing
