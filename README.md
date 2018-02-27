@@ -25,8 +25,6 @@ Grgory Abowd
 Aman Parnami
 Elizabeth DiSalvo
 Zane Cochran
-[Google Ventures Design
-Team](http://www.designstaff.org/articles/product-design-sprint-2012-10-02.html).
 
 #### What is the backstory behing developing this course plan?
 
